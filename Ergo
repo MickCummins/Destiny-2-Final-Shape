@@ -1,5 +1,15 @@
 title:Ergo
 
-// Ergo Sum - Ergo Sum (pve)
-//notes: Random Frame, random perks, but at least the best blade and guard are known tags:pve
+// Ergo Sum - Ergo Sum (god-pve)
+//notes: Random Frame, random perks, but at least the best blade and guard are known tags:god-pve
 dimwishlist:item=1681583613&perks=436053704,52780822
+
+
+// Ergo Sum - Ergo Sum (pve)
+//notes: Random Frame, random perks, but at least the better blade & guard combos are known tags:pve
+dimwishlist:item=1681583613&perks=436053704,52780822
+dimwishlist:item=1681583613&perks=436053704,3625355092
+dimwishlist:item=1681583613&perks=1261178282,52780822
+dimwishlist:item=1681583613&perks=1261178282,3625355092
+
+
