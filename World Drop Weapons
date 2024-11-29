@@ -22,7 +22,7 @@ dimwishlist:item=499245245&perks=1332244541,3142289711,494941759,3708227201
 dimwishlist:item=499245245&perks=2173046394
 
 
-// Ded Gramarye IV - Ded Gramarye IV (pvp)
+// Ded Gramarye IV - Ded Gramarye IV ()
 //notes: PVP top perks
 dimwishlist:item=499245245&perks=4071163871,3708227201
 dimwishlist:item=499245245&perks=4071163871,781192741
@@ -30,7 +30,31 @@ dimwishlist:item=499245245&perks=494941759,3708227201
 dimwishlist:item=499245245&perks=494941759,781192741
 
 
-// Wild Style (Adept) - Wild Style (Adept) (god-pve)
-//notes: Damage rotation meta
-dimwishlist:item=959037361&perks=3301904089,1523832109,1546637391,744217850
+// Anonymous Autumn - PVP (pvp)
+//notes: Use the field tested origin trait.  https://youtu.be/i6EGqa9d37w tags:pvp
+dimwishlist:item=1051949956&perks=1194056669,3673922083
+dimwishlist:item=1051949956&perks=1194056669,1015611457
+dimwishlist:item=1051949956&perks=1194056669,555281244
+dimwishlist:item=1051949956&perks=1194056669,2889515627
+dimwishlist:item=1051949956&perks=1194056669,2923251173
+dimwishlist:item=1051949956&perks=1194056669,332733060
+dimwishlist:item=1051949956&perks=2579169598,3673922083
+dimwishlist:item=1051949956&perks=2579169598,1015611457
+dimwishlist:item=1051949956&perks=2579169598,555281244
+dimwishlist:item=1051949956&perks=2579169598,2889515627
+dimwishlist:item=1051949956&perks=2579169598,2923251173
+dimwishlist:item=1051949956&perks=2579169598,332733060
+dimwishlist:item=1051949956&perks=3955464425,3673922083
+dimwishlist:item=1051949956&perks=3955464425,1015611457
+dimwishlist:item=1051949956&perks=3955464425,555281244
+dimwishlist:item=1051949956&perks=3955464425,2889515627
+dimwishlist:item=1051949956&perks=3955464425,2923251173
+dimwishlist:item=1051949956&perks=3955464425,332733060
+dimwishlist:item=1051949956&perks=2073244114,3673922083
+dimwishlist:item=1051949956&perks=2073244114,1015611457
+dimwishlist:item=1051949956&perks=2073244114,555281244
+dimwishlist:item=1051949956&perks=2073244114,2889515627
+dimwishlist:item=1051949956&perks=2073244114,2923251173
+dimwishlist:item=1051949956&perks=2073244114,332733060
+
 
