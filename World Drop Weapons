@@ -1,6 +1,26 @@
 title:Final Shape World Drops
 description:World Drop Weapons from Final Shape
 
+// Tinasha's Mastery - Tinasha's Mastery (pve)
+//notes: CHILL CLIP!  Enhanced Air Trigger, High Explosive Ordinance, with backup mag mod gives the most ammo.  Also makes the mag base size 9, so does that mean out of 12 bullets 7 have chill clip?  Doubt it. tags:pve
+dimwishlist:item=480368036&perks=1380253176,3291427296,2978966579
+dimwishlist:item=480368036&perks=1380253176,3291427296,344235611
+dimwishlist:item=480368036&perks=1380253176,1421772400,2978966579
+dimwishlist:item=480368036&perks=1380253176,1421772400,344235611
+dimwishlist:item=480368036&perks=1380253176,1119449540,2978966579
+dimwishlist:item=480368036&perks=1380253176,1119449540,344235611
+dimwishlist:item=480368036&perks=1380253176,561986700,2978966579
+dimwishlist:item=480368036&perks=1380253176,561986700,344235611
+dimwishlist:item=480368036&perks=1380253176,951095735,2978966579
+dimwishlist:item=480368036&perks=1380253176,951095735,344235611
+dimwishlist:item=480368036&perks=1380253176,3878366039,2978966579
+dimwishlist:item=480368036&perks=1380253176,3878366039,344235611
+dimwishlist:item=480368036&perks=1380253176,3828510309,2978966579
+dimwishlist:item=480368036&perks=1380253176,3828510309,344235611
+dimwishlist:item=480368036&perks=1380253176,1771736209,2978966579
+dimwishlist:item=480368036&perks=1380253176,1771736209,344235611
+
+
 // Ded Gramarye IV - Ded Gramarye IV (god-pve)
 //notes: Incredible Ad Clear and Ammo Economy tags:god-pve
 dimwishlist:item=499245245&perks=3978468247,2396489472
@@ -30,7 +50,7 @@ dimwishlist:item=499245245&perks=494941759,3708227201
 dimwishlist:item=499245245&perks=494941759,781192741
 
 
-// Anonymous Autumn - PVP (pvp)
+// Anonymous Autumn - https://youtu.be/i6EGqa9d37w (pvp)
 //notes: Use the field tested origin trait.  https://youtu.be/i6EGqa9d37w tags:pvp
 dimwishlist:item=1051949956&perks=1194056669,3673922083
 dimwishlist:item=1051949956&perks=1194056669,1015611457
