@@ -1,5 +1,5 @@
-title:Stoicism
-description:Stoicism
+title:ExoticClassItems
+description:Stoicism Solipsism and Relatavism
 
 // Stoicism - Stoicism (god-pve,god-pvp)
 //notes:Stoicism 5 stars tags:god-pve,god-pvp
@@ -14,7 +14,7 @@ dimwishlist:item=266021826&perks=1476923953,3573490507
 
 
 // Stoicism - Stoicism (pve,pvp)
-//notes:Stoicism 4 stars tags:pve,pvp
+//notes:Stoicism 1 or 2 stars tags:pve,pvp
 dimwishlist:item=266021826&perks=3573490509,1476923955
 dimwishlist:item=266021826&perks=3573490510,1476923955
 dimwishlist:item=266021826&perks=1476923952,1476923956
@@ -38,8 +38,19 @@ dimwishlist:item=266021826&perks=3573490505,3573490500
 // Stoicism - Stoicism (trash)
 //notes:Stoicism trash tags:trash
 dimwishlist:item=-266021826&perks=3573490505,1476923956
-
-
-
+dimwishlist:item=-266021826&perks=1476923954,3573490506
+dimwishlist:item=-266021826&perks=1476923954,3573490501
+dimwishlist:item=-266021826&perks=1476923954,1476923956
+dimwishlist:item=-266021826&perks=1476923952,1476923957
+dimwishlist:item=-266021826&perks=3573490511,1476923957
+dimwishlist:item=-266021826&perks=1476923952,3573490506
+dimwishlist:item=-266021826&perks=3573490509,3573490506
+dimwishlist:item=-266021826&perks=3573490511,3573490506
+dimwishlist:item=-266021826&perks=3573490505,3573490506
+dimwishlist:item=-266021826&perks=3573490511,3573490501
+dimwishlist:item=-266021826&perks=3573490505,3573490501
+dimwishlist:item=-266021826&perks=1476923952,3573490500
+dimwishlist:item=-266021826&perks=1476923954,3573490500
+dimwishlist:item=-266021826&perks=3573490511,3573490500
 
 
